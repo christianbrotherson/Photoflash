@@ -30,7 +30,7 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'carrierwave'
-gem 'mini_magick', '~> 3.5.0'
+gem 'mini_magick', '~> 4.8'
 gem 'fog'
 gem 'figaro'
 gem 'unf'
