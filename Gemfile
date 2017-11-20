@@ -17,6 +17,9 @@ gem 'jbuilder', '~> 2.5'
 
 group :development, :test do
   gem 'byebug', platform: :mri
+
+  # For testing
+  gem 'rspec-rails', '~> 3.0'
 end
 
 group :development do
@@ -34,3 +37,5 @@ gem 'mini_magick', '~> 4.8'
 gem 'fog'
 gem 'figaro'
 gem 'unf'
+
+
